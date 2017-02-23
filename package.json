@@ -1,0 +1,18 @@
+{
+  "name": "chinese-finance-number",
+  "version": "0.1.0",
+  "description": "将数字转换成财务用的中文大写数字",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambition/node-chinese-finance-number.git"
+  },
+  "author": "Orange Mi<orangemiwj@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
